@@ -1,0 +1,23 @@
+#footer {
+  background-color: #2c2b2b;
+  text-align: center;
+  padding: 40px;
+}
+
+.links {
+  justify-content: space-around;
+}
+
+.logo {
+  color: #D4AF37;
+  font-size: 40px;
+  padding: 5px;
+}
+
+#footer p {
+  color: #6B6C6C;
+}
+
+#lil-bonus {
+    color: #BF0F12;
+}
